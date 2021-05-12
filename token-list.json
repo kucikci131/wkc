@@ -1,0 +1,24 @@
+{
+  "name": "wolfkingcoin",
+  "logoURI": "https://i.niupic.com/images/2021/05/12/9hrl.png",
+  "keywords": [
+      "wolfkingcoin",
+      "defi"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x4840e22e898cbbdc105d9dfb0c6398f84371a43a",
+      "name": "wolfkingcoin",
+      "symbol": "wkc",
+      "decimals": 18,
+      "logoURI": "https://i.niupic.com/images/2021/05/12/9hrl.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
